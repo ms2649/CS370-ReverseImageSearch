@@ -1,5 +1,5 @@
 # CS370-ReverseImageSearch
-# Team Members: Michal Sudol (ms2649@njit.edu), Matthew Nicol(mjn38@njit.edu)
+# Team Members: Michal Sudol (AWS CONTACT ms2649@njit.edu), Matthew Nicol(mjn38@njit.edu)
 
 
 * The problem we will be investigating is **Reverse Visual Search**. It is interesting because it is a very common and useful application of machine learning modeling, used for instance to discover matching items in a catalog of products for ecommerce website, finding the same person throughout your pictures on your phone, finding the source of a cat meme you found on the internet. 
